@@ -81,9 +81,7 @@ li
 
 #centre
 {
-    /*background-color: blue) ;*/
     width: 600px;
-    /*border-style: dashed;*/
     border-color: black;
     margin: auto;
     float: left;
@@ -91,9 +89,7 @@ li
 
 #droite
     {
-        /*background-color: yellow) ;*/
         width: 350px;
-        /*border-style: dashed;*/
         border-color: black;
         margin:auto;
         overflow: auto;
@@ -105,10 +101,7 @@ li
     .encart1-gauche
     {
         border-style:dotted;
-        border-width:1px;
-        /*margin:5px;*/
-        /*padding:2px;*/
-        
+        border-width:1px;     
         border-color: gray;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size:small;
@@ -121,9 +114,6 @@ li
     {
         border-style:dotted;
         border-width:1px;
-        /*margin:5px;*/
-        /*padding:2px;*/
-        
         border-color: gray;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size:small;
@@ -134,10 +124,6 @@ li
 
     .legende
     {
-        /*border-style:dotted;
-        border-width:1px;
-              
-        border-color: gray;*/
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size:small;
         font-style: italic;
@@ -167,7 +153,6 @@ li
     {
         border-style:dotted;
         border-width:1px;
-        /*margin:2px;*/
         padding:2px;
         background-color: #1a77cec4;
         
@@ -182,10 +167,8 @@ li
     {
         border-style:dotted;
         border-width:1px;
-        /*margin:2px;*/
         padding:2px;
         background-color:#34A853;
-        
         border-color: gray;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size:medium;
