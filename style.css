@@ -1,0 +1,193 @@
+body 
+{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Tahoma, sans-serif, Arial;
+    }
+
+h1
+{   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(73, 73, 73);
+    margin-left: 2px;
+    margin-top: 4px;
+    font-size:xx-large;
+}
+h2
+{   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(17, 31, 59);
+    margin-left: 2px;
+    margin-top: 4px;
+    font-size:x-large;
+}
+h3 
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0c74d4e7;
+    font-size:large;
+    margin-left: 2px;
+    margin-top: -2px;
+}
+
+p
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+text-align:justify;
+hyphens: auto;
+color: rgb(65, 65, 65);
+margin-left: 2px;
+}
+li
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: rgb(104, 104, 104);
+}
+
+
+
+
+.img {
+    background-color: transparent;
+    text-align: left;
+    margin-top: 2px;
+
+}
+
+#corps
+{
+   /*background-color: red ;*/
+   width: 1300px;
+   /*border-style: dashed;*/
+   border-color: black;
+   margin: auto;
+   }
+#gauche
+{
+    /*background-color: blue) ;*/
+    width: 200px;
+    /*border-style: dashed;*/
+    border-color: black;
+    margin-right:60px;
+    float: left;
+    font-size: medium;
+   
+}
+
+
+#centre
+{
+    /*background-color: blue) ;*/
+    width: 600px;
+    /*border-style: dashed;*/
+    border-color: black;
+    margin: auto;
+    float: left;
+}
+
+#droite
+    {
+        /*background-color: yellow) ;*/
+        width: 350px;
+        /*border-style: dashed;*/
+        border-color: black;
+        margin:auto;
+        overflow: auto;
+        font-size: medium;
+        float:right;
+   
+    }   
+
+    .encart1-gauche
+    {
+        border-style:dotted;
+        border-width:1px;
+        /*margin:5px;*/
+        /*padding:2px;*/
+        
+        border-color: gray;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size:small;
+        color: grey;
+
+
+    }
+
+    .encart1-centre
+    {
+        border-style:dotted;
+        border-width:1px;
+        /*margin:5px;*/
+        /*padding:2px;*/
+        
+        border-color: gray;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size:small;
+        color: grey;
+
+
+    }
+
+    .legende
+    {
+        /*border-style:dotted;
+        border-width:1px;
+              
+        border-color: gray;*/
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size:small;
+        font-style: italic;
+        color: rgb(49, 49, 49);
+
+
+    }
+
+
+    .encart1-titre-legende
+    {
+        border-style:dotted;
+        border-width:1px;
+        margin:0px;
+        padding:2px;
+        background-color: #303030;
+        
+        border-color: gray;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size:small;
+        color: white;
+
+
+    }
+
+    .encart1-titre
+    {
+        border-style:dotted;
+        border-width:1px;
+        /*margin:2px;*/
+        padding:2px;
+        background-color: #1a77cec4;
+        
+        border-color: gray;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size:medium;
+        color: rgb(255, 255, 255);
+
+
+    }
+    .encart1-titre-green
+    {
+        border-style:dotted;
+        border-width:1px;
+        /*margin:2px;*/
+        padding:2px;
+        background-color:#34A853;
+        
+        border-color: gray;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size:medium;
+        color: rgb(255, 255, 255);
+
+
+    }
