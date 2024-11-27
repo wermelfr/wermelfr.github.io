@@ -11,7 +11,9 @@ h1
     color: rgb(73, 73, 73);
     margin-left: 2px;
     margin-top: 4px;
-    font-size:xx-large;
+    font-size: 2.2em;
+    text-transform: uppercase;
+    
 }
 h2
 {   
@@ -20,6 +22,7 @@ h2
     margin-left: 2px;
     margin-top: 4px;
     font-size:x-large;
+    text-transform: capitalize;
 }
 h3 
 {
