@@ -180,3 +180,17 @@ li
 
 
     }
+
+    .encart1-titre-or
+    {
+        border-style:dotted;
+        border-width:1px;
+        padding:2px;
+        background-color:#ffe818;
+        border-color: gray;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size:small;
+        color: rgb(73, 73, 73);
+
+
+    }
